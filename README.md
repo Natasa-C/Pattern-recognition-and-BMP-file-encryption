@@ -1,6 +1,6 @@
 # Pattern-recognition-and-BMP-file-encryption
 
-An algorithm for encrypting, decrypting and finding patterns (customized in this project to handwritten numbers) in a bmp image. The encrypted images has a uniform distribution of pixel values in each color channel, so as to hide the uneven distribution of pixel values in the original image that can provide relevant statistical information. For the recognition of patterns we will be using a set of ten templates for the ten digits to be recognized.
+An algorithm for encrypting, decrypting and finding patterns (customized in this project to handwritten numbers) in a bmp image. The encrypted images have a uniform distribution of pixel values in each color channel, so as to hide the uneven distribution of pixel values in the original image that can provide relevant statistical information. For the recognition of patterns we will be using a set of ten templates for the ten digits to be recognized.
 
 ## Compile and run
 ### script.c
